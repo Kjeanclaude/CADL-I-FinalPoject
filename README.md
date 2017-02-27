@@ -14,10 +14,19 @@ Thanks !
 
 
 ======================================
-###A RECENT CONTRIBUTION
+###RECENT CONTRIBUTIONS
 ======================================
 You could find below a recent published research paper **close to the subject** (09 Fev 2017), from the University of Electronic Science and Technology of China (UESTC). [Coincidently, at the same time where I wrote mine].
 
 Apart for ***Mouth slightly open vector*** where the mouths are not always **slightly opened** but reduced when highly opened, they succeeded very well with eyeglasses and hairs vectors.
 -	**ATTRIBUTE-CONTROLLED FACE PHOTO SYNTHESIS FROM SIMPLE LINE DRAWING** | Qi Guo Ce Zhu Zhiqiang Xia Zhengtao Wang Yipeng Liu
 [Download here](https://arxiv.org/pdf/1702.02805v1.pdf)
+
+
+
+======================================
+-	A post of Julien Despois **Latent space visualization — Deep Learning bits #2** 
+
+He shows how visualize the latent space where arithmetics are done. Could help see how things works in this space.
+
+[See HERE](https://medium.com/@juliendespois/latent-space-visualization-deep-learning-bits-2-bd09a46920df#.9582ub5u6)
